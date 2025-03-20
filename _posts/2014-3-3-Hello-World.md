@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Steel Sector Data: Tracking Energy and Emissions
+title: Steel Sector Data 
 ---
 
+**Tracking Energy and Emissions**
 
 This blog post introduces a dataset capturing steel industry energy consumption, selected for its rich detail on electricity usage, reactive power, power factors, and CO₂ outputs. We chose these records because steel manufacturing is among the most energy-intensive global industries, demanding reliable insights into power usage and emissions. The dataset includes continuous numerical fields (e.g., kilowatt-hours and power factors), ordinal variables like seconds since midnight, and categorical indicators for weekdays vs. weekends. Such breadth offers a multi-angle view of when and how energy is consumed, making it ideal for forecasting and efficiency studies.
 
